@@ -1,6 +1,7 @@
 public class ClasaNoua {
     public static void main(String[] args) {
-        System.out.println("Heloo World");
+        int i=3;
+        System.out.println(i);
 
 }}
 
